@@ -1,0 +1,9 @@
+#masthead-container.ytd-app {
+  position: static !important;
+}
+
+#page-manager.ytd-app,
+ytd-page-manager,
+ytd-page-manager#page-manager {
+  margin-top: 0px !important;
+}
