@@ -1,7 +1,7 @@
 {
-  "name": "Youtube Scroll Fixer",
-  "version": "1.0",
-  "description": "Fixes the sticky search bar on Youtube.",
+  "name": "YouTube Scroll Fixer",
+  "version": "1.0.1",
+  "description": "Fixes the sticky search bar on YouTube.",
   "manifest_version": 2,
   "content_scripts": [
     {
