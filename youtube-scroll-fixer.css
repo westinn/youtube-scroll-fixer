@@ -3,7 +3,7 @@
 }
 
 #masthead-container.style-scope.ytd-app {
-  position: static !important;
+  display: hidden;
 }
 
 #page-manager.ytd-app,
