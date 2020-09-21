@@ -2,6 +2,10 @@
   position: static !important;
 }
 
+#masthead-container.style-scope.ytd-app {
+  position: static !important;
+}
+
 #page-manager.ytd-app,
 ytd-page-manager,
 ytd-page-manager#page-manager {
